@@ -26,3 +26,8 @@
 ### 파일입출력을 활용
 
 원하는 날짜를 yyyy-mm-dd 형식으로 입력하면 해당 날짜에 맞는 일정을 보여줍니다.
+
+
+
+![ggg](https://github.com/danikaaa/2019_GGG/assets/82324322/8f7bef1f-4d8f-4070-80a2-d267d97b6eee)
+![ggg2](https://github.com/danikaaa/2019_GGG/assets/82324322/8899ba92-f8e2-4657-a206-be3c4842407f)
